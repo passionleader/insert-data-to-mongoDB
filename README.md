@@ -1,4 +1,4 @@
-# Redesigning-datasets-to-fit-Database (incomplete)
+# Redesigning-datasets-to-fit-Database
 * Transfer TDMS File(machining dataset) to Database
 * this project is related with "Measurement-of-Various-Message-Transfer-Protocols"
 * purpose of this project is that finding best Database and Message trasfer protocol
@@ -69,6 +69,12 @@
 ---
 ### Database Server Connection
 ![image](https://user-images.githubusercontent.com/55945939/144702077-e8d80a9a-9588-453e-8f77-22ea5f2af73e.png)
+
+---
+### Related Poster I submit:
+<img width="1591" height="2151" alt="image" src="https://github.com/user-attachments/assets/2a9c7e07-f515-4458-9cca-800c04366504" />
+
+
 
 ---
 ### Acknowledgement
